@@ -8,6 +8,7 @@ Publisher: Javad Rajabzadeh
 PackageName: Hydra Download Manager
 License: GPL
 Copyright: (C) 2026 Javad Rajabzadeh. GPL-3.0-or-later.
+PrivacyUrl: https://hydra.javad.dev/privacy.html
 ShortDescription: A fast, resilient, multi-source file retriever and download engine
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
