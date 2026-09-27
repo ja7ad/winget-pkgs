@@ -1,5 +1,5 @@
-# Created with YamlCreate.ps1 Dumplings Mod
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Automatically updated by the winget bot at 2026/Sep/16
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 
 PackageIdentifier: MediaHuman.AudioConverter
 PackageVersion: 2.3.8
@@ -11,9 +11,9 @@ ReleaseDate: 2026-08-26
 Installers:
 - Architecture: x86
   InstallerUrl: https://www.mediahuman.com/files/MHAudioConverter.exe
-  InstallerSha256: 3BDDE7B88F1D86F863D704136E5362B282AD6708E61BB439D22C95AC12F86CCB
+  InstallerSha256: 4175A9720EB3706926B77508CBD8A0DE82B543AE60DAAA872B5FD0B67D3D5101
 - Architecture: x64
   InstallerUrl: https://www.mediahuman.com/files/MHAudioConverter-x64.exe
-  InstallerSha256: 10A476682C7DE7893E4CE5B827C45A12D814C3FA82C340923B05B16E1737FE93
+  InstallerSha256: 23E4DB1156913A51008E0222FA8F1D9D6027984E45F4136FDC1AD10F9679321D
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0

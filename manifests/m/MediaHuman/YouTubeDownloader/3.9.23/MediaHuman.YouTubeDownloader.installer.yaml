@@ -1,5 +1,5 @@
-# Created with YamlCreate.ps1 Dumplings Mod
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Automatically updated by the winget bot at 2026/Sep/17
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 
 PackageIdentifier: MediaHuman.YouTubeDownloader
 PackageVersion: 3.9.23
@@ -13,9 +13,9 @@ ReleaseDate: 2026-08-23
 Installers:
 - Architecture: x86
   InstallerUrl: https://www.mediahuman.com/files/YouTubeDownloader.exe
-  InstallerSha256: 650F4DCB49A998DBEB7142A20924E68BF7D84A58EBFA542C475C44F5EE70AFE0
+  InstallerSha256: 917204193FF10C362926DF7166FE41CE19B726AD8E7F1583644E6F04C630A042
 - Architecture: x64
   InstallerUrl: https://www.mediahuman.com/files/YouTubeDownloader-x64.exe
-  InstallerSha256: 051872B4A571FDEC6BD130C54602286F7D538EE9B1B6C42C635B9EBF3E618F74
+  InstallerSha256: 3B84D67CC62CED89D17669266A62B3FBDE39D2307B0B13EE500CAC305FC44232
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0
